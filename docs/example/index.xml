@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Example Site on Studenti Unitelma</title>
+    <link>https://annagregori.github.io/studentiunitelma/docs/example/</link>
+    <description>Recent content in Example Site on Studenti Unitelma</description>
+    <generator>Hugo</generator>
+    <language>en</language>
+    <atom:link href="https://annagregori.github.io/studentiunitelma/docs/example/index.xml" rel="self" type="application/rss+xml" />
+  </channel>
+</rss>

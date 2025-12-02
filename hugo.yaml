@@ -1,0 +1,53 @@
+# hugo server --minify --themesDir ../..
+
+# for maximum cleanups and rebuilds, run where you checked out the repository
+# hugo server --printPathWarnings --disableFastRender --cleanDestinationDir=true --logLevel=debug \
+# --gc -M -s exampleSite --themesDir ../.. -b http://127.0.0.1/
+
+baseURL = 'https://annagregori.github.io/studentiunitelma/'
+languageCode = 'en-us'
+title = 'Studenti Unitelma'
+theme = 'hugo-book'
+
+copyright: "[© CC BY 4.0](https://creativecommons.org/licenses/by/4.0/legalcode)"
+
+# Book configuration
+disablePathToLower: true
+enableEmoji = true
+
+# Needed for mermaid/katex shortcodes
+markup:
+  goldmark:
+    renderer:
+      unsafe: true
+  tableOfContents:
+    startLevel: 1
+  highlight:
+    style: base16-snazzy
+
+# Multi-lingual mode config
+# There are different options to translate files
+# See https://gohugo.io/content-management/multilingual/#translation-by-filename
+# And https://gohugo.io/content-management/multilingual/#translation-by-content-directory
+languages:
+  en:
+    languageName: Italiano
+    contentDir: content
+    weight: 1
+
+
+menu:
+  home:
+    - name: "Documentation"
+      pageRef: "/docs/home/"
+      weight: 1
+    - pageRef: "/docs/home/"
+      weight: 10
+      parent: "Documentation"
+    - name: "Shortcode"
+      pageRef: "/docs/shortcodes/buttons/"
+      weight: 20
+      parent: "Documentation"
+    - name: "Showcase"
+      pageRef: "/showcases/"
+      weight: 2
