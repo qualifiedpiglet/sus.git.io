@@ -2,10 +2,10 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Home on Studenti Unitelma</title>
-    <link>http://localhost:1313/sus.git.io/docs/example/</link>
+    <link>https://qualifiedpiglet.github.io/sus.git.io/docs/example/</link>
     <description>Recent content in Home on Studenti Unitelma</description>
     <generator>Hugo</generator>
     <language>en</language>
-    <atom:link href="http://localhost:1313/sus.git.io/docs/example/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://qualifiedpiglet.github.io/sus.git.io/docs/example/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>
