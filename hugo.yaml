@@ -4,7 +4,7 @@
 # hugo server --printPathWarnings --disableFastRender --cleanDestinationDir=true --logLevel=debug \
 # --gc -M -s exampleSite --themesDir ../.. -b http://127.0.0.1/
 
-baseURL = 'https://annagregori.github.io/studentiunitelma/'
+baseURL = 'https://qualifiedpiglet.github.io/sus.git.io/'
 languageCode = 'en-us'
 title = 'Studenti Unitelma'
 theme = 'hugo-book'

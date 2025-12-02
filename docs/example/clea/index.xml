@@ -2,10 +2,10 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Studenti Unitelma</title>
-    <link>https://annagregori.github.io/studentiunitelma/docs/example/clea/</link>
+    <link>https://qualifiedpiglet.github.io/sus.git.io/docs/example/clea/</link>
     <description>Recent content on Studenti Unitelma</description>
     <generator>Hugo</generator>
     <language>en</language>
-    <atom:link href="https://annagregori.github.io/studentiunitelma/docs/example/clea/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://qualifiedpiglet.github.io/sus.git.io/docs/example/clea/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>

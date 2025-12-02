@@ -5,4 +5,4 @@ title: "Home"
 ---
 
 # Introduzione
-[CLEA](https://annagregori.github.io/studentiunitelma/docs/example/clea/)
+[CLEA](https://qualifiedpiglet.github.io/sus.git.io/docs/example/clea/)

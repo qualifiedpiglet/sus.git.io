@@ -2,30 +2,30 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Studenti Unitelma</title>
-    <link>http://localhost:1313/studentiunitelma/docs/example/clea/primo-anno/</link>
+    <link>http://localhost:1313/sus.git.io/docs/example/clea/primo-anno/</link>
     <description>Recent content on Studenti Unitelma</description>
     <generator>Hugo</generator>
     <language>en</language>
-    <atom:link href="http://localhost:1313/studentiunitelma/docs/example/clea/primo-anno/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/sus.git.io/docs/example/clea/primo-anno/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title></title>
-      <link>http://localhost:1313/studentiunitelma/docs/example/clea/primo-anno/ragioneria/</link>
+      <link>http://localhost:1313/sus.git.io/docs/example/clea/primo-anno/ragioneria/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/studentiunitelma/docs/example/clea/primo-anno/ragioneria/</guid>
+      <guid>http://localhost:1313/sus.git.io/docs/example/clea/primo-anno/ragioneria/</guid>
       <description>&lt;h1 id=&#34;ragioneria&#34;&gt;Ragioneria&lt;a class=&#34;anchor&#34; href=&#34;#ragioneria&#34;&gt;#&lt;/a&gt;&lt;/h1&gt;&#xA;&lt;!--&#xA;Source - https://stackoverflow.com/a&#xA;Posted by tanius, modified by community. See post &#39;Timeline&#39; for change history&#xA;Retrieved 2025-11-27, License - CC BY-SA 4.0&#xA;--&gt;&#xA;&lt;h2 id=&#34;indice&#34;&gt;Indice&lt;a class=&#34;anchor&#34; href=&#34;#indice&#34;&gt;#&lt;/a&gt;&lt;/h2&gt;&#xA;&lt;p&gt;&lt;strong&gt;&lt;a href=&#34;#esami&#34;&gt;1. Esami&lt;/a&gt;&lt;/strong&gt;&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;&lt;a href=&#34;#gennaio-2025&#34;&gt;1.1. Gennaio 2025&lt;/a&gt;&lt;/li&gt;&#xA;&lt;li&gt;&lt;a href=&#34;#maggio-2025&#34;&gt;1.2. Maggio 2025&lt;/a&gt;&lt;/li&gt;&#xA;&lt;li&gt;&lt;a href=&#34;#settembre-2025&#34;&gt;1.3. Settembre 2025&lt;/a&gt;&lt;/li&gt;&#xA;&lt;li&gt;&lt;a href=&#34;#novembre-2025&#34;&gt;1.4. Novembre 2025&lt;/a&gt;&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;hr&gt;&#xA;&lt;h2 id=&#34;esami&#34;&gt;Esami&lt;a class=&#34;anchor&#34; href=&#34;#esami&#34;&gt;#&lt;/a&gt;&lt;/h2&gt;&#xA;&lt;h3 id=&#34;gennaio-2025&#34;&gt;Gennaio 2025&lt;a class=&#34;anchor&#34; href=&#34;#gennaio-2025&#34;&gt;#&lt;/a&gt;&lt;/h3&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;&#xA;&lt;p&gt;esercizio di classificazione dei conti in cui dovevi scrivere la natura del conto e metterlo in stato patrimoniale o a conto economico.&lt;/p&gt;&#xA;&lt;/li&gt;&#xA;&lt;li&gt;&#xA;&lt;p&gt;domanda teorica: cosa è l&amp;rsquo;ammortamento, quando si usa, come si usa, eccetera eccetera.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Economia politica</title>
-      <link>http://localhost:1313/studentiunitelma/docs/example/clea/primo-anno/ecopolitica/</link>
+      <link>http://localhost:1313/sus.git.io/docs/example/clea/primo-anno/ecopolitica/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/studentiunitelma/docs/example/clea/primo-anno/ecopolitica/</guid>
+      <guid>http://localhost:1313/sus.git.io/docs/example/clea/primo-anno/ecopolitica/</guid>
       <description>&lt;h1 id=&#34;economia-politica&#34;&gt;Economia politica&lt;a class=&#34;anchor&#34; href=&#34;#economia-politica&#34;&gt;#&lt;/a&gt;&lt;/h1&gt;&#xA;&lt;!--&#xA;Source - https://stackoverflow.com/a&#xA;Posted by tanius, modified by community. See post &#39;Timeline&#39; for change history&#xA;Retrieved 2025-11-27, License - CC BY-SA 4.0&#xA;--&gt;&#xA;&lt;h2 id=&#34;indice&#34;&gt;Indice&lt;a class=&#34;anchor&#34; href=&#34;#indice&#34;&gt;#&lt;/a&gt;&lt;/h2&gt;&#xA;&lt;p&gt;&lt;strong&gt;&lt;a href=&#34;#dicembre25&#34;&gt;1. Dicembre 2025&lt;/a&gt;&lt;/strong&gt;&lt;/p&gt;&#xA;&lt;hr&gt;&#xA;&lt;h2 id=&#34;dicembre-2025&#34;&gt;Dicembre 2025 &lt;a name=&#34;dicembre25&#34;&gt;&lt;/a&gt;&lt;a class=&#34;anchor&#34; href=&#34;#dicembre-2025&#34;&gt;#&lt;/a&gt;&lt;/h2&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Massimizzazione profitto in concorrenza perfetta&lt;/li&gt;&#xA;&lt;li&gt;Curva IS&lt;/li&gt;&#xA;&lt;li&gt;Capitale Sociale&lt;/li&gt;&#xA;&lt;li&gt;area di profitto nel monopolio&lt;/li&gt;&#xA;&lt;li&gt;costruzione curva LM&lt;/li&gt;&#xA;&lt;li&gt;teoria di lewis&lt;/li&gt;&#xA;&lt;li&gt;Isoquanto ed Isocosto&lt;/li&gt;&#xA;&lt;li&gt;costruzione curva IS&lt;/li&gt;&#xA;&lt;li&gt;Massimizzazione profitto nel monopolio&lt;/li&gt;&#xA;&lt;li&gt;Curva AD&lt;/li&gt;&#xA;&lt;li&gt;IDE&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;hr&gt;</description>
     </item>
     <item>
       <title>Economia politica per il turismo</title>
-      <link>http://localhost:1313/studentiunitelma/docs/example/clea/primo-anno/ep-turismo/</link>
+      <link>http://localhost:1313/sus.git.io/docs/example/clea/primo-anno/ep-turismo/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/studentiunitelma/docs/example/clea/primo-anno/ep-turismo/</guid>
+      <guid>http://localhost:1313/sus.git.io/docs/example/clea/primo-anno/ep-turismo/</guid>
       <description>&lt;h1 id=&#34;economia-politica-per-il-turismo&#34;&gt;Economia politica per il turismo&lt;a class=&#34;anchor&#34; href=&#34;#economia-politica-per-il-turismo&#34;&gt;#&lt;/a&gt;&lt;/h1&gt;&#xA;&lt;!--&#xA;Source - https://stackoverflow.com/a&#xA;Posted by tanius, modified by community. See post &#39;Timeline&#39; for change history&#xA;Retrieved 2025-11-27, License - CC BY-SA 4.0&#xA;--&gt;&#xA;&lt;h2 id=&#34;indice&#34;&gt;Indice&lt;a class=&#34;anchor&#34; href=&#34;#indice&#34;&gt;#&lt;/a&gt;&lt;/h2&gt;&#xA;&lt;p&gt;&lt;strong&gt;&lt;a href=&#34;#dicembre25&#34;&gt;1. Dicembre 2025&lt;/a&gt;&lt;/strong&gt;&lt;/p&gt;&#xA;&lt;hr&gt;&#xA;&lt;h2 id=&#34;dicembre-2025&#34;&gt;Dicembre 2025 &lt;a name=&#34;dicembre25&#34;&gt;&lt;/a&gt;&lt;a class=&#34;anchor&#34; href=&#34;#dicembre-2025&#34;&gt;#&lt;/a&gt;&lt;/h2&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;domanda turistica&lt;/li&gt;&#xA;&lt;li&gt;politiche del turismo&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;hr&gt;</description>
     </item>
   </channel>
